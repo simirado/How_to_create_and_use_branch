@@ -9,3 +9,4 @@ git clone <link> -b <branch name>
 
 Example: git clone https://github.com/Rasel120/How_to_create_and_use_branch.git -b person1
 ```
+#### N.B: Create all branch First how much you want. Then upload , Poll Request or etc...
